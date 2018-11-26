@@ -9,9 +9,13 @@ Publication : <a href="https://pubs.acs.org/doi/10.1021/acs.jmedchem.8b01105">**
 
 # Teaching Projects
 
-# Education
- * **2016** (6 months internship): Ligand/protein interactions profiling for target prediction, *France* <br>Paris, Inserm - Molecules Therapeutiques in Silico - Supervisor: Pr Anne-Claude CAMPROUX
- * **2015** (6 months internship): Molecular dynamic simulations analysist, France <br>Paris, CNRS - Laboratoire de Biochimie Theorique - Supervisor: Dr Marc BAADEN
- * 
+# Experience
+ * **2016** (6 months internship): **Ligand/protein interactions profiling for target prediction**, *France* <br>Paris, Inserm - Molecules Therapeutiques in Silico - Supervisor: Pr Anne-Claude CAMPROUX
+ * **2015** (6 months internship): **Molecular dynamic simulations analysist**, France <br>Paris, CNRS - Laboratoire de Biochimie Theorique - Supervisor: Dr Marc BAADEN
+ * **2014** (4 months internship), **Chemo-informatic research - Drug design**, *Switzerland* <br>Zurich, Universitat Zurich - Biochemistry Department - Supervisor: Prof. Amedeo CAFLISCH
+* **2013** (4 months internship), **Chemo-informatic research**, *France* <br>Villejuif, BIRL - Supervisor: Dr J.-Y. TROSSET
 
+# Education
+* **2015 - 2016**, Universite Paris Diderot, France (Master 2) **MSc In Silico Drug Design** 
+* **2010 - 2016**, Sup’Biotech Paris, France (Master 2) **Expert in Biotechnology Engineering**
 
