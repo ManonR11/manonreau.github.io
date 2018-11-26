@@ -10,6 +10,9 @@ Publication : <a href="https://pubs.acs.org/doi/10.1021/acs.jmedchem.8b01105">**
 # Teaching Projects
 
 # Education
+⋅⋅* **2016** (6 months internship): Ligand/protein interactions profiling for target prediction, *France* <br>Paris, Inserm - Molecules Therapeutiques in Silico - Supervisor: Pr Anne-Claude CAMPROUX
 
+⋅⋅*
+⋅⋅*
 
 
