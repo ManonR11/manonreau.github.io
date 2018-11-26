@@ -10,6 +10,7 @@ Publication : <a href="https://pubs.acs.org/doi/10.1021/acs.jmedchem.8b01105">**
 # Teaching Projects
 
 # Experience
+* **Current** : PhD student in chemoinformatic reseach - **Integration of negative data into benchmarking databases: Application to Nuclear Receptors**, *France* <br>Paris, Conservatoire National des Arts et Métiers, GBA - Supervisor: Pr Matthieu MONTES 
  * **2016** (6 months internship): **Ligand/protein interactions profiling for target prediction**, *France* <br>Paris, Inserm - Molecules Therapeutiques in Silico - Supervisor: Pr Anne-Claude CAMPROUX
  * **2015** (6 months internship): **Molecular dynamic simulations analysist**, France <br>Paris, CNRS - Laboratoire de Biochimie Theorique - Supervisor: Dr Marc BAADEN
  * **2014** (4 months internship), **Chemo-informatic research - Drug design**, *Switzerland* <br>Zurich, Universitat Zurich - Biochemistry Department - Supervisor: Prof. Amedeo CAFLISCH
