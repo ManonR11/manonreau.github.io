@@ -3,7 +3,7 @@ description: PhD Student
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-dinky
-pages:
+github:
   research: https://manonr11.github.io/webpage/research_projects.html
   teaching: https://manonr11.github.io/webpage/teaching_projects.html
   CV: https://manonr11.github.io/webpage/CV.html
