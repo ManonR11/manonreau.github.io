@@ -4,7 +4,7 @@ show_downloads: true
 google_analytics:
 theme: jekyll-theme-dinky
 pages:
-  research : https://manonr11.github.io/webpage/research_project.html
-  teaching : https://manonr11.github.io/webpage/teaching_project.html
+  research : https://manonr11.github.io/webpage/research_projects.html
+  teaching : https://manonr11.github.io/webpage/teaching_projects.html
   CV : https://manonr11.github.io/webpage/CV.html
   publications : https://manonr11.github.io/webpage/publications.html
