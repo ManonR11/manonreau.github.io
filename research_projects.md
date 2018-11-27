@@ -1,6 +1,6 @@
 # Integration of Negative Data Into Benchmarking Databases: Application to Nuclear Receptors
 ### What does negativity stands for ? 
-<img style="width:95%" src="assets/images/PR_ago_antago.png" alt="PR structures: ago-bound vs. antago-bound">
+<img style="width:95%" src="assets/images/PR_ago_antago.png" alt="PR structures: ago-bound vs. antago-bound"><br>
 This section is under construction
 
 ### Why do we study Nuclear Receptors (NRs) ?
