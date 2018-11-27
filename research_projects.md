@@ -1,6 +1,6 @@
 This page is under construction
 
-Go back to the [main page](https://manonr11.github.io/webpage/) 
+Go back to the [main page](https://manonreau.github.io/webpage/) 
 
 # Integration of Negative Data Into Benchmarking Databases: Application to Nuclear Receptors
 ### Creation of the NR-DBIND (Nuclear Receptors DataBase Including Negative Data)
