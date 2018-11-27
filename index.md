@@ -21,6 +21,6 @@ Thesis title : **Integration of negative data into benchmarking databases: Appli
 * **2013** (4 months internship), **Chemo-informatic research**, *France* <br>Villejuif, <a href="https://www.supbiotech.fr/recherche-biotechnologie/laboratoire-birl-bioinformatique>BIRL</a> - Supervisor: Dr J.-Y. TROSSET
 
 # Education
-* **2015 - 2016**, Universite Paris Diderot, France (Master 2) **MSc In Silico Drug Design** 
-* **2010 - 2016**, Sup’Biotech Paris, France (Master 2) **Expert in Biotechnology Engineering**
+* **2015 - 2016**, <a href="http://isddteach.sdv.univ-paris-diderot.fr/fr/accueil.html">Master ISDD</a>, Universite Paris Diderot, France (Master 2) - **MSc In Silico Drug Design** 
+* **2010 - 2016**, <a href="https://www.supbiotech.fr">Sup’Biotech Paris</a>, France (Master 2) - **Expert in Biotechnology Engineering**
 
