@@ -1,4 +1,5 @@
 title: Manon Réau
+author: Manon Réau
 description: PhD Student
 show_downloads: true
 google_analytics:
@@ -8,7 +9,5 @@ github:
   teaching: https://manonr11.github.io/webpage/teaching_projects.html
   CV: https://manonr11.github.io/webpage/CV.html
   publications: https://manonr11.github.io/webpage/publications.html
-search:
-    keywords: ['Manon Réau', 'Manon', 'Réau', 'CNAM', 'GBA', 'NR-DBIND', 'Theranalpha', 'Drug design', 'Chemoinformatics']
 plugins:
   - jekyll-seo-tag
