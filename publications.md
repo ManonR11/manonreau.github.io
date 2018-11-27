@@ -10,10 +10,10 @@
 
 # Contributions in conferences
 ### Oral contributions
-- **JOBIM (Journées Ouvertes Biologie, Informatique et Mathématiques)** - July 2018 - Marseilles, France <br>NR-DBIND : A database dedicated to nuclear receptor binding data including negative data and pharmacological profile  
+- **JOBIM (Journées Ouvertes Biologie, Informatique et Mathématiques)** - July 2018 - Marseilles, France <a href="https://jobim2018.sciencesconf.org">Link</a><br>NR-DBIND : A database dedicated to nuclear receptor binding data including negative data and pharmacological profile  
 
 ### Poster presentation
-- **GCC (German Conference on Chemoinformatics)** - November 2018 - Mainz, Germany <br>
+- **GCC (German Conference on Chemoinformatics)** - November 2018 - Mainz, Germany, <a href="https://veranstaltungen.gdch.de/tms/frontend/index.cfm?l=8085&modus=">Link</a> <br> 
 Integration of Negative Data into Benchmarking Database: Application to Nuclear Receptors
 - **J2A - Ecole doctorale SMI 432** - June 2018 - Paris, France <br>
 Nuclear Receptors Binding and Activity Data
