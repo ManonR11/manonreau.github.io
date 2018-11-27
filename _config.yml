@@ -5,9 +5,9 @@ show_downloads: true
 google_analytics: 'UA-129866296-1'
 theme: jekyll-theme-dinky
 github:
-  research: https://manonr11.github.io/webpage/research_projects.html
-  teaching: https://manonr11.github.io/webpage/teaching_projects.html
-  CV: https://manonr11.github.io/webpage/CV.html
-  publications: https://manonr11.github.io/webpage/publications.html
+  research: https://manonreau.github.io/webpage/research_projects.html
+  teaching: https://manonreau.github.io/webpage/teaching_projects.html
+  CV: https://manonreau.github.io/webpage/CV.html
+  publications: https://manonreau.github.io/webpage/publications.html
 plugins:
   - jekyll-seo-tag
