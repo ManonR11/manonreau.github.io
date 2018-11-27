@@ -10,5 +10,5 @@ github:
   publications: https://manonr11.github.io/webpage/publications.html
 search:
     keywords: ['Manon Réau', 'Manon', 'Réau', 'CNAM', 'GBA', 'NR-DBIND', 'Theranalpha', 'Drug design', 'Chemoinformatics']
-gems:
+plugins:
   - jekyll-seo-tag
