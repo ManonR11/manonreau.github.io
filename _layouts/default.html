@@ -22,8 +22,8 @@
     <div class="wrapper">
       <header>
         <img style="width:80%" src="assets/images/manon.png" alt="MREAU_picture">
-        <a href="https://manonr11.github.io/webpage/"><h1 class="header">{{ site.title | default: site.github.repository_name }}</h1></a>
-        <p class="header">{{ site.description | default: site.github.project_tagline }}</p>
+        <a href="https://manonr11.github.io/webpage/"><h1 class="header">{{ site.author | default: site.github.repository_name }}</h1></a>
+        <p class="header">{{ site.title | default: site.github.project_tagline }}</p>
 
         <ul>
           {% if site.show_downloads %}
