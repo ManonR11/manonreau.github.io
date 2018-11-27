@@ -280,13 +280,13 @@ header li {
 	line-height: 1em;
 	padding: 6px 6px 6px 7px;
 
-	background: #AF0011;
-	background: -moz-linear-gradient(top, #AF0011 0%, #820011 100%);
+	background: #cc0066;
+	background: -moz-linear-gradient(top, #cc0066 0%, #990033 100%);
   background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#f8f8f8), color-stop(100%,#dddddd));
-  background: -webkit-linear-gradient(top, #AF0011 0%,#820011 100%);
-  background: -o-linear-gradient(top, #AF0011 0%,#820011 100%);
-  background: -ms-linear-gradient(top, #AF0011 0%,#820011 100%);
-  background: linear-gradient(to top, #AF0011 0%,#820011 100%);
+  background: -webkit-linear-gradient(top, #cc0066 0%,#990033 100%);
+  background: -o-linear-gradient(top, #cc0066 0%,#990033 100%);
+  background: -ms-linear-gradient(top, #cc0066 0%,#990033 100%);
+  background: linear-gradient(to top, #cc0066 0%,#990033 100%);
 
 	border-radius:4px;
   border:1px solid #0D0D0D;
@@ -296,14 +296,15 @@ header li {
 
 }
 
+
 header li:hover {
-	background: #C3001D;
-	background: -moz-linear-gradient(top, #C3001D 0%, #950119 100%);
+	background: #e60073;
+	background: -moz-linear-gradient(top, #e60073 0%, #b3003b 100%);
   background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#f8f8f8), color-stop(100%,#dddddd));
-  background: -webkit-linear-gradient(top, #C3001D 0%,#950119 100%);
-  background: -o-linear-gradient(top, #C3001D 0%,#950119 100%);
-  background: -ms-linear-gradient(top, #C3001D 0%,#950119 100%);
-  background: linear-gradient(to top, #C3001D 0%,#950119 100%);
+  background: -webkit-linear-gradient(top, #e60073 0%,#b3003b 100%);
+  background: -o-linear-gradient(top, #e60073 0%,#b3003b 100%);
+  background: -ms-linear-gradient(top, #e60073 0%,#b3003b 100%);
+  background: linear-gradient(to top, #e60073 0%,#b3003b 100%);
 }
 
 a.buttons {
