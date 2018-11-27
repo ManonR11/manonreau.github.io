@@ -3,3 +3,8 @@ description: PhD Student
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-dinky
+pages:
+  - Research projects : "research_project"
+  - Teaching projects : "teaching_project"
+  - Curriculum Vitae : "CV"
+  - Publications : "publications"
