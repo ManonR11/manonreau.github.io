@@ -31,7 +31,7 @@ My objective, in collaboration with Dr. S. Murail et Dr. B. Laurent was to analy
 * **2014** (4 months), **Chemo-informatic research - Fragment-Based Drug design on the bromodomain BAZ2B**, *Switzerland* <br>Zurich, Universitat Zurich - <a href="http://www.biochem-caflisch.uzh.ch">Caflisch group</a> - Supervisor: Prof. Amedeo CAFLISCH
 
 {: style="text-align: justify"}
-Bromodomains are epigenetic readers of lysine acetylation; some of them have a key role in acetylation-dependent assembly of transcriptional factors. Few is known about the bromodomain BAZ2B and his physiological role. Some homologies with BAZ2A suggest that it is probably involved in cardiac arrests. 
+Bromodomains are epigenetic readers of lysine acetylation; some of them have a key role in acetylation-dependent assembly of transcriptional factors. Few is known about the bromodomain BAZ2B and its physiological role. Some homologies with BAZ2A suggest that it is probably involved in cardiac arrests. 
 My objective was to design potential inhibitors of BAZ2B to first help understanding its physiological role. I used a fragment-based drug design approach starting from the Lead-now de Zinc Data Base. 
  
  
