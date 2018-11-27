@@ -16,7 +16,7 @@ Publication : <a href="https://pubs.acs.org/doi/10.1021/acs.jmedchem.8b01105">**
 - **Drug Design Data Resource (D3R) Grand Challenge 3 and 4**: Monitoring of 4 groups of 3 to 4 Master students in their participation to the challenge. 
 - **192h** of practical work assistance and teaching.
 
-# PhD in chemoinformatics <a class="atitle" href="site.github.CV">[read more]</a>
+# PhD in chemoinformatics <a class="atitle" href="{{ site.github.CV }}">[read more]</a>
 Thesis title : **Integration of negative data into benchmarking databases: Application to Nuclear Receptors**, *France* <br>Paris, Conservatoire National des Arts et Métiers, <a href="http://gba.cnam.fr/index.php">GBA</a> - Supervisor: Pr Matthieu MONTES 
 
 
