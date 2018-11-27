@@ -18,5 +18,5 @@ The project is supported by an ANR grant: <a href="http://www.agence-nationale-r
 ### Collaborators
 - Laboratoire CM (Chimie Moléculaire), CNAM, Paris
 - Laboratoire GBA (Génomique, Bioinformatique et Applications), CNAM, Paris
-- Laboratoire SATIE (Laboratoire des Systèmes et Applications des Technologies de l'Information et de l'Energie), 
+- Laboratoire SATIE (Laboratoire des Systèmes et Applications des Technologies de l'Information et de l'Energie) 
 - PEPTINOV SAS
