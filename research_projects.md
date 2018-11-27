@@ -1,14 +1,16 @@
-This page is under construction
-
-Go back to the [main page](https://manonreau.github.io/webpage/) 
-
 # Integration of Negative Data Into Benchmarking Databases: Application to Nuclear Receptors
 ### What does negativity stands for ? 
 <img style="width:95%" src="assets/images/PR_ago_antago.png" alt="PR structures: ago-bound vs. antago-bound">
+This section is under construction
+
+### Why do we study Nuclear Receptors (NRs) ?
+This section is under construction
 
 ### Creation of the NR-DBIND (Nuclear Receptors DataBase Including Negative Data)
-### Why do we study Nuclear Receptors (NRs) ?
+This section is under construction
+
 ### Applications
+This section is under construction
 
 # Theranalpha Project (Theranostic TNFa inhibitors)
 The global objective of this project is to design and evaluate *in vitro* and *in vivo* theranostic small molecule inhibitors of TNFa to further provide inexpensive anti-TNFa therapies administered orally.<br>
