@@ -7,8 +7,14 @@ Publication : <a href="https://pubs.acs.org/doi/10.1021/acs.jmedchem.8b01105">**
 ### NR-DBIND based benchmarking of in silico tools for affinity prediction and endocrinian perturbation risk evaluation
 
 # Research Projects <a class="atitle" href="{{ site.github.research }}">[read more]</a>
+- NR-DBIND (Nuclear Receptors DataBase Including Negative Data)
+- Integration of negative data into benchmarking database, application to docking and pharmacophore modeling tools
+- Theranalpha Project (Theranostic TNFa inhibitors)
 
 # Teaching Projects <a class="atitle" href="{{ site.github.teaching }}">[read more]</a>
+- Creation of a scientific **Escape Game** for the "Fête de la Science" for highschool students - Theme: "Alexandre Yersin - Plague: The plague is arriving in Paris and Alexandre Yersin has disapeared and remains unfindable... Bring all your Biology knowledge together to help us retrieve his anti-plague serum"
+- Monitoring of 4 groups of 3 to 4 Master students in their participation to the **Drug Design Data Resource Grand Challenge 3 and 4** (D3R). 
+- **192h** of practical work assistance and teaching.
 
 # PhD in chemoinformatics <a class="atitle" href="">[read more]</a>
 Thesis title : **Integration of negative data into benchmarking databases: Application to Nuclear Receptors**, *France* <br>Paris, Conservatoire National des Arts et Métiers, <a href="http://gba.cnam.fr/index.php">GBA</a> - Supervisor: Pr Matthieu MONTES 
