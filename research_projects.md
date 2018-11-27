@@ -3,6 +3,9 @@ This page is under construction
 Go back to the [main page](https://manonreau.github.io/webpage/) 
 
 # Integration of Negative Data Into Benchmarking Databases: Application to Nuclear Receptors
+### What does negativity stands for ? 
+<img style="width:100%" src="assets/images/PR_ago_antago_bound.png" alt="PR structures: ago-bound vs. antago-bound">
+
 ### Creation of the NR-DBIND (Nuclear Receptors DataBase Including Negative Data)
 ### Why do we study Nuclear Receptors (NRs) ?
 ### Applications
