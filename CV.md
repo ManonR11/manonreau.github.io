@@ -1,5 +1,3 @@
-Go back to the [main page](https://manonreau.github.io/webpage/) 
-
 # Experience <a class="atitle" href="{{ site.github.CV }}">[read more]</a>
  * **2016** (6 months): **Ligand/protein interactions profiling for target prediction**, *France* <br>Paris, Inserm - <a href="http://www.mti.univ-paris-diderot.fr">Molecules Therapeutiques in Silico</a> - Supervisor: Pr Anne-Claude CAMPROUX
  * **2015** (6 months): **Molecular dynamic simulations analysist**, France <br>Paris, CNRS - <a href="http://www.ibpc.fr">Laboratoire de Biochimie Theorique</a> - Supervisor: Dr Marc BAADEN
