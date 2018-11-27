@@ -1,4 +1,5 @@
 # Experience 
+* **2016 - Now** : PhD student in chemoinformatics - Read more details about my project <a class="atitle" href="{{ site.github.research }}">here</a>
  * **2016** (6 months): **Ligand/protein interactions profiling for target prediction**, *France* <br>Paris, Inserm - <a href="http://www.mti.univ-paris-diderot.fr">Molecules Therapeutiques in Silico</a> - Supervisor: Pr Anne-Claude CAMPROUX
  * **2015** (6 months): **Molecular dynamic simulations analysis to understand the underlying mechanism of anaesthetic binding to GLIC**, France <br>Paris, CNRS - <a href="http://www.ibpc.fr">Laboratoire de Biochimie Theorique</a> - Supervisor: Dr Marc BAADEN
  * **2014** (4 months), **Chemo-informatic research - Fragment-Based Drug design on the bromodomain BAZ2B**, *Switzerland* <br>Zurich, Universitat Zurich - <a href="http://www.biochem-caflisch.uzh.ch">Caflisch group</a> - Supervisor: Prof. Amedeo CAFLISCH
