@@ -8,3 +8,7 @@ github:
   teaching: https://manonr11.github.io/webpage/teaching_projects.html
   CV: https://manonr11.github.io/webpage/CV.html
   publications: https://manonr11.github.io/webpage/publications.html
+search:
+    keywords: ['Manon Réau', 'Manon', 'Réau', 'CNAM', 'GBA', 'NR-DBIND', 'Theranalpha', 'Drug design', 'Chemoinformatics']
+gems:
+  - jekyll-seo-tag
