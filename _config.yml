@@ -4,7 +4,7 @@ show_downloads: true
 google_analytics:
 theme: jekyll-theme-dinky
 pages:
-  - Research_projects : research_project.md
-  - Teaching_projects : teaching_project.md
-  - Curriculum_Vitae : CV.md
-  - Publications : publications.md
+  research : https://manonr11.github.io/webpage/research_project.html
+  teaching : https://manonr11.github.io/webpage/teaching_project.html
+  CV : https://manonr11.github.io/webpage/CV.html
+  publications : https://manonr11.github.io/webpage/publications.html
