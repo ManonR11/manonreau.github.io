@@ -4,7 +4,7 @@ show_downloads: true
 google_analytics:
 theme: jekyll-theme-dinky
 pages:
-  - Research projects : "research_project"
-  - Teaching projects : "teaching_project"
-  - Curriculum Vitae : "CV"
-  - Publications : "publications"
+  - Research_projects : research_project.md
+  - Teaching_projects : teaching_project.md
+  - Curriculum_Vitae : CV.md
+  - Publications : publications.md
