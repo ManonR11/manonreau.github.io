@@ -20,7 +20,7 @@ Thesis title : **Integration of negative data into benchmarking databases: Appli
  * **2014** (4 months), **Chemo-informatic research - Drug design**, *Switzerland* <br>Zurich, Universitat Zurich - <a href="http://www.biochem-caflisch.uzh.ch">Caflisch group</a> - Supervisor: Prof. Amedeo CAFLISCH
 * **2013** (4 months), **Chemo-informatic research**, *France* <br>Villejuif, Sup'Biotech Paris - <a href="https://www.supbiotech.fr/recherche-biotechnologie/laboratoire-birl-bioinformatique">BIRL</a> - Supervisor: Dr J.-Y. TROSSET
 
-# Education <a href="">[read more]</a>
+# Education <a class="atitle" href="">[read more]</a>
 * **2015 - 2016**, <a href="http://isddteach.sdv.univ-paris-diderot.fr/fr/accueil.html">Master ISDD</a>, Universite Paris Diderot, France (Master 2) - **MSc In Silico Drug Design** 
 * **2010 - 2016**, <a href="https://www.supbiotech.fr">Sup’Biotech Paris</a>, France (Master 2) - **Expert in Biotechnology Engineering**
 
