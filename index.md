@@ -2,7 +2,7 @@
 # PhD student in chemoinformatics <a class="atitle" href="{{ site.github.CV }}">[read more]</a>
 Thesis title : **Integration of negative data into benchmarking databases: Application to Nuclear Receptors**, *France* <br>Paris, Conservatoire National des Arts et Métiers, <a href="http://gba.cnam.fr/index.php">GBA</a> - Supervisor: Pr Matthieu MONTES 
 
-# Major achievements
+## Major achievements
 ### NR-DBIND: Nuclear Receptors DataBase Including Negative Data
 <img style="width:100%" src="assets/images/TOCgraphic.png" alt="NR-DBIND TOC">
 Freely avalable database: <a href="http://nr-dbind.drugdesign.fr">http://nr-dbind.drugdesign.fr</a><br>
