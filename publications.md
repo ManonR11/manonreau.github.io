@@ -14,6 +14,6 @@
 
 ### Poster presentations
 - **GCC (German Conference on Chemoinformatics)** - November 2018 - Mainz, Germany - <a href="https://veranstaltungen.gdch.de/tms/frontend/index.cfm?l=8085&modus=">Link</a> <br> 
-Integration of Negative Data into Benchmarking Database: Application to Nuclear Receptors
+Title : "Integration of Negative Data into Benchmarking Database: Application to Nuclear Receptors"
 - **J2A - Ecole doctorale SMI 432** - June 2018 - Paris, France <br>
-Nuclear Receptors Binding and Activity Data
+Title : "Nuclear Receptors Binding and Activity Data"
