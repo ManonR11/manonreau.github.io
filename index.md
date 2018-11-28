@@ -1,5 +1,5 @@
 
-# PhD in student chemoinformatics <a class="atitle" href="{{ site.github.CV }}">[read more]</a>
+# PhD student in chemoinformatics <a class="atitle" href="{{ site.github.CV }}">[read more]</a>
 Thesis title : **Integration of negative data into benchmarking databases: Application to Nuclear Receptors**, *France* <br>Paris, Conservatoire National des Arts et Métiers, <a href="http://gba.cnam.fr/index.php">GBA</a> - Supervisor: Pr Matthieu MONTES 
 
 # Major achievements
