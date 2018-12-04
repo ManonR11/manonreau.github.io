@@ -26,10 +26,10 @@ Gathering quality data with documented annotations and including negative data w
 {: style="text-align: justify"} 
 In a previous work, <a href="https://pubs.acs.org/doi/abs/10.1021/jm500132p">Lagarde et al</a> created the <a href="http://nrlist.drugdesign.fr">NRLiSt BDB</a>, a robust NR-focused benchmarking database that aimed to correct and complete annotation errors found in ChEMBL. This database mainly contains activity values (IC50 and EC50) collected through a manual literature
 review, including their corresponding "agonist" or "antagonist" pharmacological profile annotation.
-To complete information brought by the NRLiSt BDB with more affinity data, more diversity in pharmacological profiles annotation, more experimental details, and particularly to include negative data, we constructed the **Nuclear Receptors DataBase Including Negative Data (NR-DBIND)**
+To complete information brought by the NRLiSt BDB with more affinity data, more diversity in pharmacological profile annotations, more experimental details, and particularly to include negative data, we constructed the **Nuclear Receptors DataBase Including Negative Data (NR-DBIND)**
 
 {: style="text-align: justify"} 
-To the best of our knowledge, the NR-DBIND is the most exhaustive database that contains small molecules affinity and activity data for NRs. In total, it provides 15116 positive and negative interactions data for 28 NRs together with 599 PDB structures.
+To the best of our knowledge, the NR-DBIND is the most exhaustive database that contains small molecules affinity and activity data for NRs. In total, it provides **15116 positive** and negative interactions data for 28 NRs together with 599 PDB structures.
 Each interaction is documented with the small molecule SMILES, IUPAC name and additional identifiers (ZINC, CHEMBL) when available, its associated activity and affinity assay types and values, the corresponding references from the literature, and when avaiable, the percentage of activity, the associated pharmacological profile.
 
 The entire NR-DBIND is freely available at **<a href="http://nr-dbind.drugdesign.fr">http://nr-dbind.drugdesign.fr</a>**. Different subsets can be selected and dynamic tables allow custom selection, download and visualization of data.
