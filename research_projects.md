@@ -4,8 +4,8 @@
 
 <img style="width:95%" src="assets/images/PR_ago_antago.png" alt="PR structures: ago-bound vs. antago-bound"><br>
 
-{: style="text-align: justify"} The concept of negative data is relative to the studied system and the intended results. Let's say we want to find agonists of a given NRs; an evident type of negative data are the molecules that did not show any experimental binding affinity against the NR. 
-However, binder can ellicit different kind of activities depending on their pharmacological profile (i.e. agonist, antagonist, partial agonist/antagonist, inverse agonist). In this case, **only** agonists should be considered in true positif set, while molecules displaying non wanted pharmacological profiles can be considered in the negative set. This imply that a sharp annotation step is necessary prior to library screening.
+{: style="text-align: justify"} The concept of negative data is relative to the studied system and the intended results. In the case of NRs, we may want to find agonists of a specific NR; an evident type of negative data are the molecules that did not show any experimental binding affinity against the NR. 
+However, binders can ellicit different kind of activities depending on their pharmacological profile (i.e. agonist, antagonist, partial agonist/antagonist, inverse agonist). In this case, **only** agonists should be considered in true positif set, while molecules displaying non wanted pharmacological profiles can be considered in the negative set. This imply that a sharp annotation step is necessary prior to library screening.
 
 ### Why do we study Nuclear Receptors (NRs) ?
 {: style="text-align: justify"} The NRs constitute an important family of transcription factors (TFs), with a total of 48 human NRs. NRs regulate gene expression in various physiological processes through their interactions with small hydrophobic molecules. Their implication in various diseases (obesity, diabetes, metabolic syndromes, impaired reproductive system development etc.) make them important class of targets for drugs. Many efforts are put in identifying NRs modulators with reduced side effects.
