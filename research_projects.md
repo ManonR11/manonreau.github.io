@@ -39,7 +39,7 @@ The entire NR-DBIND is freely available at <a href="http://nr-dbind.drugdesign.f
 {: style="text-align: justify"} 
 The NR-DBIND can be used as a reliable source of data for researchers from different fields trying to understand and modulate NRs functions. The NR-DBIND datasets are notably suited for in silico studies using structure- and ligand-based methods.
 
-Among our multiple projects, we are exploring the impact of structure choice in the performance of docking tools applied on datasets fully composed of true positive and true negative ligands.
+Among our multiple projects, we are exploring (1) the impact of structure choice in the performance of docking tools applied on datasets fully composed of true positive and true negative ligands and (2) the integration of negative data information in pharmacophore model construction.
 
 
 # Theranalpha Project (Theranostic TNFa inhibitors)
