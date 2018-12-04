@@ -29,7 +29,7 @@ review, including their corresponding "agonist" or "antagonist" pharmacological 
 We constructed the NR-DBIND to complete information brought by the NRLiSt BDB with more affinity data, more diversity in pharmacological profiles annotation, more experimental details, and particularly to include negative data. 
 
 {: style="text-align: justify"}
-The database provides 15116 positive and negative interactions data for 28 NRs together with 599 PDB structures and is freely available here.
+The database provides 15116 positive and negative interactions data for 28 NRs together with 599 PDB structures and is freely available <a href="http://nr-dbind.drugdesign.fr">here</a><br>.
 
 ### Applications
 {: style="text-align: justify"}
