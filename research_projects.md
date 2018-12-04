@@ -20,7 +20,7 @@ Additionally, experimental studies show that NRs are also targeted by endocrine 
 Thanks to the amount of published data concerning NRs, it is possible to build prediction models to assist scientists from various research fields in identifying NRs ligands in drug design campaign, or in understanding EDCs mode of action. Nonetheless, high data quality is required to generate reliable models. 
 
 {: style="text-align: justify"} 
-Gathering quality data with documented annotations and including negative annotations was the first big challenge of my thesis at the GBA, CNAM.
+Gathering quality data with documented annotations and including negative data was the first big challenge of my thesis at the GBA, CNAM.
 
 ### Creation of the NR-DBIND (Nuclear Receptors DataBase Including Negative Data)
 {: style="text-align: justify"} 
