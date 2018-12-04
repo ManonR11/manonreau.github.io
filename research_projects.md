@@ -32,7 +32,7 @@ To complete information brought by the NRLiSt BDB with more affinity data, more 
 To the best of our knowledge, the NR-DBIND is the most exhaustive database that contains small molecules affinity and activity data for NRs. In total, it provides 15116 positive and negative interactions data for 28 NRs together with 599 PDB structures.
 Each interaction is documented with the small molecule SMILES, IUPAC name and additional identifiers (ZINC, CHEMBL) when available, its associated activity and affinity assay types and values, the corresponding references from the literature, and when avaiable, the percentage of activity, the associated pharmacological profile.
 
-The entire NR-DBIND is freely available at <a href="http://nr-dbind.drugdesign.fr">http://nr-dbind.drugdesign.fr</a>. Different subsets can be selected and dynamic tables allow custom selection, download and visualization of data.
+The entire NR-DBIND is freely available at **<a href="http://nr-dbind.drugdesign.fr">http://nr-dbind.drugdesign.fr</a>**. Different subsets can be selected and dynamic tables allow custom selection, download and visualization of data.
 
 
 ### Applications
