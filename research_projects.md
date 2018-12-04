@@ -24,7 +24,7 @@ Gathering quality data with documented annotations and including negative data w
 
 ### Creation of the NR-DBIND (Nuclear Receptors DataBase Including Negative Data)
 {: style="text-align: justify"} 
-In a previous work, Lagarde et al created the NRLiSt BDB, a robust NR-focused benchmarking database that aimed to correct and complete annotation errors found in ChEMBL. This database mainly contains activity values (IC50 and EC50) collected through a manual literature
+In a previous work, <a href="https://pubs.acs.org/doi/abs/10.1021/jm500132p">Lagarde et al</a> created the <a href="http://nrlist.drugdesign.fr">NRLiSt BDB</a>, a robust NR-focused benchmarking database that aimed to correct and complete annotation errors found in ChEMBL. This database mainly contains activity values (IC50 and EC50) collected through a manual literature
 review, including their corresponding "agonist" or "antagonist" pharmacological profile annotation.
 To complete information brought by the NRLiSt BDB with more affinity data, more diversity in pharmacological profiles annotation, more experimental details, and particularly to include negative data, we constructed the **Nuclear Receptors DataBase Including Negative Data (NR-DBIND)**
 
