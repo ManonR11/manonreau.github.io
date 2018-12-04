@@ -1,7 +1,7 @@
 # Integration of Negative Data Into Benchmarking Databases: Application to Nuclear Receptors
 ### What does negativity stands for ? 
-{: style="text-align: justify"}
-Today, we deplore the lack of negative data reported in litterature and public databases. If most screening results are analysed through a "sensitivity" point of view (i.e. how many true positives are selected), the inclusion of true negative confers weight to the "specificity" point of view (i.e. how many true negatives are rejected). This means can not only bring answers to **"what is responsible for the ligand/protein affinity/activity ?"**, but also to **"which features impede the interaction/ impede triggering a specific activity ?"**
+{: style="text-align: justify"} 
+Today, we deplore the lack of negative data reported in litterature and public databases. If most screening results are analysed through a "sensitivity" point of view (i.e. how many true positives are selected), the inclusion of true negative confers weight to the "specificity" point of view (i.e. how many true negatives are rejected). This means that we could not only bring answers to **"what is responsible for the ligand/protein affinity/activity ?"**, but also to **"which features impede the interaction/ impede triggering a specific activity ?"**
 
 <img style="width:95%" src="assets/images/PR_ago_antago.png" alt="PR structures: ago-bound vs. antago-bound"><br>
 
