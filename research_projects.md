@@ -34,8 +34,9 @@ The NR-DBIND provides 15116 positive and negative interactions data for 28 NRs t
 ### Applications
 {: style="text-align: justify"} 
 The NR-DBIND can be used as a reliable source of data for researchers from different fields trying to understand and modulate NRs functions. The NR-DBIND datasets are notably suited for in silico studies using structure- and ligand-based methods.
-Among our multiple projects, we are exploring the impact of structure choice in the performance of docking tools on datasets fully composed of true positive and true negative ligands.
-Ongoing
+
+Among our multiple projects, we are exploring the impact of structure choice in the performance of docking tools applied on datasets fully composed of true positive and true negative ligands.
+
 
 # Theranalpha Project (Theranostic TNFa inhibitors)
 {: style="text-align: justify"} 
