@@ -7,7 +7,7 @@ Today, we deplore the lack of negative data reported in litterature and public d
 
 {: style="text-align: justify"} 
 The concept of negative data is relative to the studied system and the intended results. In the case of NRs, we may want to find agonists of a specific NR; an evident type of negative data are the molecules that did not show any experimental binding affinity against the NR. 
-However, binders can ellicit different kind of activities depending on their pharmacological profile (i.e. agonist, antagonist, partial agonist/antagonist, inverse agonist). In this case, **only** agonists should be considered in true positif set, while molecules displaying non wanted pharmacological profiles can be considered in the negative set. This imply that a sharp annotation step is necessary prior to library screening.
+However, binders can ellicit different kind of activities depending on their pharmacological profile (i.e. agonist, antagonist, partial agonist/antagonist, inverse agonist). In this case, **only** agonists should be considered in the true positif set, while molecules displaying non wanted pharmacological profiles can be considered in the negative set. This implies that a sharp annotation step is necessary prior to library screening.
 
 ### Why do we study Nuclear Receptors (NRs) ?
 {: style="text-align: justify"} 
