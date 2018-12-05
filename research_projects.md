@@ -30,7 +30,7 @@ To complete information brought by the NRLiSt BDB with more affinity data, more 
 
 {: style="text-align: justify"} 
 To the best of our knowledge, the NR-DBIND is the most exhaustive database that contains small molecules affinity and activity data for NRs. In total, it provides **15116 positive** and negative interactions data for 28 NRs together with 599 PDB structures.
-Each interaction is documented with the small molecule SMILES, IUPAC name and additional identifiers (ZINC, CHEMBL) when available, its associated activity and affinity assay types and values, the corresponding references from the literature, and when avaiable, the percentage of activity, the associated pharmacological profile.
+Each interaction is documented with the small molecule SMILES, IUPAC name and additional identifiers (ZINC, CHEMBL) when available, its associated activity and affinity assay types and values, the corresponding references from the literature, and when available, the percentage of activity, the associated pharmacological profile.
 
 The entire NR-DBIND is freely available at <a href="http://nr-dbind.drugdesign.fr">**http://nr-dbind.drugdesign.fr**</a>. Different subsets can be selected and dynamic tables allow custom selection, download and visualization of data.
 
@@ -39,7 +39,7 @@ The entire NR-DBIND is freely available at <a href="http://nr-dbind.drugdesign.f
 {: style="text-align: justify"} 
 The NR-DBIND can be used as a reliable source of data for researchers from different fields trying to understand and modulate NRs functions. The NR-DBIND datasets are notably suited for in silico studies using structure- and ligand-based methods.
 
-Among our multiple projects, we are exploring (1) the impact of structure choice in the performance of docking tools applied on datasets fully composed of true positive and true negative ligands and (2) the integration of negative data information in pharmacophore model construction.
+Among our multiple projects, we are exploring (1) the impact of structure selection in the performance of docking tools applied on datasets fully composed of true positive and true negative ligands and (2) the integration of negative data information in pharmacophore model construction.
 
 
 # Theranalpha Project (Theranostic TNFa inhibitors)
