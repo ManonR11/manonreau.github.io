@@ -6,6 +6,7 @@ Thesis title : **Integration of negative data into benchmarking databases: Appli
 ### NR-DBIND: Nuclear Receptors DataBase Including Negative Data
 <img style="width:100%" src="assets/images/TOCgraphic.png" alt="NR-DBIND TOC">
 Freely avalable database: <a href="http://nr-dbind.drugdesign.fr">http://nr-dbind.drugdesign.fr</a><br>
+<a href="http://nr-dbind.drugdesign.fr"><img style="width:20%" class="center" src="assets/images/NR-DBIND_3.png" alt="NR-DBIND"></a>
 Publication : <a href="https://pubs.acs.org/doi/10.1021/acs.jmedchem.8b01105">**DOI**: 10.1021/acs.jmedchem.8b01105</a>
 
 
