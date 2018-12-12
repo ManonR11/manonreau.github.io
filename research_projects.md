@@ -28,7 +28,7 @@ In a previous work, <a href="https://pubs.acs.org/doi/abs/10.1021/jm500132p">Lag
 review, completed with their corresponding "agonist" or "antagonist" pharmacological profile annotation.
 To complete information brought by the NRLiSt BDB with more affinity data, more diversity in pharmacological profile annotations, more experimental details, and particularly to include negative data, we constructed the **Nuclear Receptors DataBase Including Negative Data (**<a href="http://nr-dbind.drugdesign.fr">**NR-DIND**</a>**)** - <a href="https://pubs.acs.org/doi/10.1021/acs.jmedchem.8b01105">Réau et al, J Med Chem, Nov 2018</a>.
 
-<img style="width:95%" src="assets/images/NR-DBIND_3.png" href="http://nr-dbind.drugdesign.fr" alt="NR-DBIND"><br>
+<img style="width:20%" src="assets/images/NR-DBIND_3.png" href="http://nr-dbind.drugdesign.fr" alt="NR-DBIND"><br>
 
 {: style="text-align: justify"} 
 To the best of our knowledge, the NR-DBIND is the most exhaustive database that contains small molecules affinity and activity data for NRs. In total, it provides **15116 positive** and negative interactions data for 28 NRs together with 599 PDB structures.
