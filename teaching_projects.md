@@ -2,6 +2,7 @@ This page is under construction
 
 # Teaching
 - 192h of practical work assistance and teaching at Paris Diderot
+- 4h of teaching at the Cnam
 - 2h of introduction to bioinformatic at Sup'Biotech Paris  
 
 # Other projects
