@@ -11,7 +11,7 @@
 # Contributions in conferences
 ### Oral contributions
 - **SCT - YRFM (Société de Chimie Thérapeutique - Young Research Fellows Meeting** - February 2019 -- Paris, France
-href="http://www.sct-asso.fr/yrfm.html">Link</a><br>Use of annotated databases in in silico drug design - Integration of inactive data 
+<href="http://www.sct-asso.fr/yrfm.html">Link</a><br>Use of annotated databases in in silico drug design - Integration of inactive data 
 - **JOBIM (Journées Ouvertes Biologie, Informatique et Mathématiques)** - July 2018 - Marseille, France - <a href="https://jobim2018.sciencesconf.org">Link</a><br>NR-DBIND : A database dedicated to nuclear receptor binding data including negative data and pharmacological profile  
 
 ### Poster presentations
