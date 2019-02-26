@@ -4,7 +4,7 @@ Thesis title : **Integration of negative data into benchmarking databases: Appli
  * **2016** (6 months): **Ligand/protein interactions profiling for target prediction**, *France* <br>Paris, Inserm - <a href="http://www.mti.univ-paris-diderot.fr">Molecules Therapeutiques in Silico</a> - Supervisor: Pr Anne-Claude CAMPROUX
  * **2015** (6 months): **Molecular dynamic simulations analysis to understand the underlying mechanism of anaesthetic binding to GLIC**, France <br>Paris, CNRS - <a href="http://www.ibpc.fr">Laboratoire de Biochimie Theorique</a> - Supervisor: Dr Marc BAADEN
  * **2014** (4 months), **Chemo-informatic research - Fragment-Based Drug design on the bromodomain BAZ2B**, *Switzerland* <br>Zurich, Universitat Zurich - <a href="http://www.biochem-caflisch.uzh.ch">Caflisch group</a> - Supervisor: Prof. Amedeo CAFLISCH
-* **2013** (4 months), **Chemo-informatic research on bormodomain family**, *France* <br>Villejuif, Sup'Biotech Paris - <a href="https://www.supbiotech.fr/recherche-biotechnologie/laboratoire-birl-bioinformatique">BIRL</a> - Supervisor: Dr J.-Y. TROSSET
+* **2013** (4 months), **Chemo-informatic research on bromodomain family**, *France* <br>Villejuif, Sup'Biotech Paris - <a href="https://www.supbiotech.fr/recherche-biotechnologie/laboratoire-birl-bioinformatique">BIRL</a> - Supervisor: Dr J.-Y. TROSSET
 
 # Skills
 This section is under construction
