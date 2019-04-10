@@ -12,7 +12,7 @@ Publication : <a href="https://pubs.acs.org/doi/10.1021/acs.jmedchem.8b01105">**
 
 # Research Projects <a class="atitle" href="{{ site.github.research }}">[read more]</a>
 - **NR-DBIND** (Nuclear Receptors DataBase Including Negative Data)
-- **Integration of negative data** into benchmarking database, application to docking and pharmacophore modeling tools
+- **Integration of experimentally validated inactive data** to the construction and evaluation of models (docking and pharmacophores)
 - **Theranalpha Project** (Theranostic TNFa inhibitors)
 
 # Teaching Projects <a class="atitle" href="{{ site.github.teaching }}">[read more]</a>
