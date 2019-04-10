@@ -15,6 +15,8 @@
 - **JOBIM (Journées Ouvertes Biologie, Informatique et Mathématiques)** - July 2018 - Marseille, France - <a href="https://jobim2018.sciencesconf.org">Link</a><br>NR-DBIND : A database dedicated to nuclear receptor binding data including negative data and pharmacological profile  
 
 ### Poster presentations
+- **GGMM (Groupe de Graphisme et de Modélisation Moléculaire)** - April 2019 - Nice, France - <a href="https://ggmm2019.sciencesconf.org">Link</a> <br> 
+Title : "NR-DBIND : A database dedicated to nuclear receptors binding data including negative data and pharmacological profile"
 - **GCC (German Conference on Chemoinformatics)** - November 2018 - Mainz, Germany - <a href="https://veranstaltungen.gdch.de/tms/frontend/index.cfm?l=8085&modus=">Link</a> <br> 
 Title : "Integration of Negative Data into Benchmarking Database: Application to Nuclear Receptors"
 - **J2A - Ecole doctorale SMI 432** - June 2018 - Paris, France <br>
