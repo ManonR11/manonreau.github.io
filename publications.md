@@ -1,5 +1,9 @@
 # Publications in peer-reviewed journals
 
+- **Réau M**, Lagarde N, Zagury JF, Montes M., **Hits Discovery on the Androgen Receptor: In Silico Approaches to Identify Agonist Compounds**, 2019 Nov, *Cells*, **doi**: 10.3390/cells8111431, <a href="https://www.mdpi.com/2073-4409/8/11/1431">Link</a>
+
+- Cerisier N, Petitjean M, Regad L, Bayard Q, **Réau M**, Camproux AC , **High Impact: The Role of Promiscuous Binding Sites in Polypharmacology**, 2019 Jul, *Molecules*, **doi**: 0.3390/molecules24142529, <a href="https://www.mdpi.com/1420-3049/24/14/2529">Link</a>
+
 - **Réau M**, Lagarde N, Zagury JF, Montes M., **Nuclear Receptors DataBase Including Negative Data (NR-DBIND): A database dedicated to nuclear receptors binding data including negative data and pharmacological profile**, 2018 Nov, *Journal of Medicinal Chemistry*, **doi**: 10.1021/acs.jmedchem.8b01105, <a href="https://pubs.acs.org/doi/10.1021/acs.jmedchem.8b01105">Link</a>
 
 - **Réau M**, Langenfeld F, Zagury JF, Lagarde N, Montes M., **Decoys Selection in Benchmarking Datasets: Overview and Perspectives.**, *Frontiers in Pharmacology*, 2018 Jan. **doi**: 10.3389/fphar.2018.00011, <a href="https://pubs.acs.org/doi/10.1021/acs.jmedchem.8b01105">Link</a>
@@ -10,7 +14,9 @@
 
 # Contributions in conferences
 ### Oral contributions
-- **SCT - YRFM (Société de Chimie Thérapeutique - Young Research Fellows Meeting** - February 2019 -- Paris, France
+- **SFCI (Société Française de Chémoinformatique - 9th edition)** - November 2019 -- Paris, France
+<a href="https://sfci2019.sciencesconf.org">Link</a><br> Hits discovery on the Androgen receptor: in silico approaches to identify agonist compounds 
+- **SCT - YRFM (Société de Chimie Thérapeutique - Young Research Fellows Meeting)** - February 2019 -- Paris, France
 <a href="http://www.sct-asso.fr/yrfm.html">Link</a><br>Use of annotated databases in in silico drug design - Integration of inactive data 
 - **JOBIM (Journées Ouvertes Biologie, Informatique et Mathématiques)** - July 2018 - Marseille, France - <a href="https://jobim2018.sciencesconf.org">Link</a><br>NR-DBIND : A database dedicated to nuclear receptor binding data including negative data and pharmacological profile  
 
