@@ -1,6 +1,6 @@
 
 # Manon Réau, PhD in chemoinformatics <a class="atitle" href="{{ site.github.CV }}">[read more]</a>
-Conservatoire National des Arts et Métiers
+Laboratoire GBCM, Conservatoire National des Arts et Métiers
 
 # Main focus
 Most of my work consists in studying molecular interactions to 1) understand biological phenomenon, to 2) identify <em>hits</em> for therapeutic research, to 2) predict unwanted effects of either drug or contaminants.
