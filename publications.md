@@ -14,7 +14,7 @@
 
 # Contributions in conferences
 ### Oral contributions
-- **SFCI (Société Française de Chémoinformatique - 9th edition)** - November 2019 -- Paris, France
+- **SFCI (Société Française de Chémoinformatique - 9th edition)** - November 2019 - Paris, France
 <a href="https://sfci2019.sciencesconf.org">Link</a><br> Hits discovery on the Androgen receptor: in silico approaches to identify agonist compounds 
 - **SCT - YRFM (Société de Chimie Thérapeutique - Young Research Fellows Meeting)** - February 2019 -- Paris, France
 <a href="http://www.sct-asso.fr/yrfm.html">Link</a><br>Use of annotated databases in in silico drug design - Integration of inactive data 
