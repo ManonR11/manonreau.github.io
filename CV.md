@@ -1,6 +1,6 @@
 # Experience 
 * **2016 - Now** : PhD student in chemoinformatics - Read more details about my project <a href="{{ site.github.research }}">here</a><br>
-Thesis title : **Integration of negative data into benchmarking databases: Application to Nuclear Receptors**, *France* <br>Paris, Conservatoire National des Arts et Métiers, <a href="http://gba.cnam.fr/index.php">GBA</a> - Supervisor: Pr Matthieu MONTES 
+Thesis title : **Integration of negative data into benchmarking databases: Application to Nuclear Receptors**, *France* <br>Paris, Conservatoire National des Arts et Métiers, <a href="http://recherche.cnam.fr/gbcm/genomique-bioinformatique-et-chimie-moleculaire-gbcm--658359.kjsp">GBCM</a> - Supervisor: Pr Matthieu MONTES 
  * **2016** (6 months): **Ligand/protein interactions profiling for target prediction**, *France* <br>Paris, Inserm - <a href="http://www.mti.univ-paris-diderot.fr">Molecules Therapeutiques in Silico</a> - Supervisor: Pr Anne-Claude CAMPROUX
  * **2015** (6 months): **Molecular dynamic simulations analysis to understand the underlying mechanism of anaesthetic binding to GLIC**, France <br>Paris, CNRS - <a href="http://www.ibpc.fr">Laboratoire de Biochimie Theorique</a> - Supervisor: Dr Marc BAADEN
  * **2014** (4 months), **Chemo-informatic research - Fragment-Based Drug design on the bromodomain BAZ2B**, *Switzerland* <br>Zurich, Universitat Zurich - <a href="http://www.biochem-caflisch.uzh.ch">Caflisch group</a> - Supervisor: Prof. Amedeo CAFLISCH
@@ -36,7 +36,7 @@ My objective, in collaboration with Dr. S. Murail et Dr. B. Laurent was to analy
 
 {: style="text-align: justify"}
 Bromodomains are epigenetic readers of lysine acetylation; some of them have a key role in acetylation-dependent assembly of transcriptional factors. Few is known about the bromodomain BAZ2B and its physiological role. Some homologies with BAZ2A suggest that it is probably involved in cardiac arrests. 
-My objective was to design potential inhibitors of BAZ2B to first help understanding its physiological role. I used a **fragment-based drug design** approach starting from the Lead-now de Zinc Data Base. 
+My objective was to design potential inhibitors of BAZ2B to first help understanding its physiological role. I used a **fragment-based drug design** approach starting from the "Lead-now" Zinc Data Base. 
 
 *Tools* : rDock, Autodock Vina, MATCH, CHARMM, pymol, VMD, Python, R, bash
  
