@@ -1,12 +1,12 @@
 ## Importance of inactive data in models : application to virtual screening in human health and environnement - example of nuclear receptors
 ### Study of the evolution of the use of decoy compounds and true inactive data into model evaluation and construction for CADD
-- See : <a href="https://pubs.acs.org/doi/10.1021/acs.jmedchem.8b01105">Réau <em>et al<\em>, Front. Pharmacol. 2018</a>
+- See : <a href="https://pubs.acs.org/doi/10.1021/acs.jmedchem.8b01105">Réau <em>et al</em>, Front. Pharmacol. 2018</a>
 ### Creation of the NR-DBIND (Nuclear Receptors DataBase Including Negative Data)
-- See : <a href="https://pubs.acs.org/doi/10.1021/acs.jmedchem.8b01105">Réau <em>et al<\em>, J. Med. Chem 2019</a>
+- See : <a href="https://pubs.acs.org/doi/10.1021/acs.jmedchem.8b01105">Réau <em>et al</em>, J. Med. Chem 2019</a>
 ### Identification of CADD pipelines to identify modulators of different nuclear receptors
 - Docking approach
 - Pharmacophore modeling approach
-- See : <a href="https://www.mdpi.com/2073-4409/8/11/1431">Réau <em>et al<\em>, Cells 2019</a>
+- See : <a href="https://www.mdpi.com/2073-4409/8/11/1431">Réau <em>et al</em>, Cells 2019</a>
 
 ## Theranalpha Project (Theranostic TNFa inhibitors)
 {: style="text-align: justify"} 
