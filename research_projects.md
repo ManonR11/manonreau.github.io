@@ -1,4 +1,4 @@
-## Integration of Negative Data Into Benchmarking Databases: Application to Nuclear Receptors
+## Importance of inactive data in models : application to virtual screening in human health and environnement - example of nuclear receptors
 ### Study of the evolution of the use of decoy compounds and true inactive data into model evaluation and construction for CADD
 - See : <a href="https://pubs.acs.org/doi/10.1021/acs.jmedchem.8b01105">Réau <em>et al<\em>, Front. Pharmacol. 2018</a>
 ### Creation of the NR-DBIND (Nuclear Receptors DataBase Including Negative Data)
@@ -8,7 +8,6 @@
 - Pharmacophore modeling approach
 - See : <a href="https://www.mdpi.com/2073-4409/8/11/1431">Réau <em>et al<\em>, Cells 2019</a>
 
-# Applicati
 ## Theranalpha Project (Theranostic TNFa inhibitors)
 {: style="text-align: justify"} 
 The global objective of this project is to design and evaluate *in vitro* and *in vivo* theranostic small molecule inhibitors of TNFa to further provide inexpensive anti-TNFa therapies administered orally.<br>
@@ -21,7 +20,8 @@ The project is supported by an ANR grant: <a href="http://www.agence-nationale-r
 - Laboratoire GBA (Génomique, Bioinformatique et Applications), CNAM, Paris
 - Laboratoire SATIE (Laboratoire des Systèmes et Applications des Technologies de l'Information et de l'Energie) 
 - PEPTINOV SAS
-## CADD to identify inhibitor of the NRP1/VEGF-A165 interaction
+
+## CADD approaches to identify inhibitor of the NRP1/VEGF-A165 interaction
 ### Collaborators
 - Yves Lepelletier, Institut Imagine, Paris
 - Françoise Raynaud, APHP
