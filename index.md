@@ -3,12 +3,12 @@
 Conservatoire National des Arts et Métiers
 
 # Main focus
-Most of my work consist in studying molecular interactions to 1) understand biological phenomenon, to 2) identify <em>hits</em> for therapeutic research, to 2) predict unwanted effects of either drug or contaminants.
+Most of my work consists in studying molecular interactions to 1) understand biological phenomenon, to 2) identify <em>hits</em> for therapeutic research, to 2) predict unwanted effects of either drug or contaminants.
 
 # Research Projects <a class="atitle" href="{{ site.github.research }}">[read more]</a>
 - Study of the **importance of inactive data into model construction and evaluation in CADD**
-- Creation of the **NR-DBIND** (Nuclear Receptors DataBase Including Negative Data)
-- **Integration of experimentally validated inactive data** to the construction and evaluation of models (docking and pharmacophores)
+-- Creation of the **NR-DBIND** (Nuclear Receptors DataBase Including Negative Data)
+-- **Integration of experimentally validated inactive data** to the construction and evaluation of models (docking and pharmacophores)
 - **Theranalpha Project** (Theranostic TNFa inhibitors)
 
 # Teaching Projects <a class="atitle" href="{{ site.github.teaching }}">[read more]</a>
