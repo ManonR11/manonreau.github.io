@@ -1,9 +1,10 @@
 This page is under construction
 
 # Teaching
-- 192h of practical work assistance and teaching at Paris Diderot
-- 4h of teaching at the Cnam
-- 2h of introduction to bioinformatic at Sup'Biotech Paris  
+
+- In silico drug design, molecular dynamic simulations, biostatistics, 3d visualisation with PyMol (Paris Diderot -192h)
+- Molecular modeling (Cnam - 4h)
+- Introduction to bioinformatic (Sup'Biotech Paris 2h) 
 
 # Other projects
 - **Escape Game**: Creation of a scientific escape game for the “Fête de la Science” for highschool students - Cnam<br> 
