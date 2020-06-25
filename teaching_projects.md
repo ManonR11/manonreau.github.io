@@ -2,7 +2,7 @@ This page is under construction
 
 # Teaching
 
-- In silico drug design, molecular dynamic simulations, biostatistics, 3d visualisation with PyMol (Paris Diderot -192h)
+- In silico drug design, molecular dynamic simulations, biostatistics, 3d visualisation with PyMol (Université Paris Diderot -192h)
 - Molecular modeling (Cnam - 4h)
 - Introduction to bioinformatic (Sup'Biotech Paris 2h) 
 
