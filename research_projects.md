@@ -11,7 +11,7 @@
 - See : <a href="https://www.mdpi.com/2073-4409/8/11/1431">Réau <em>et al</em>, Cells 2019</a>
 
 
-https://www.markdownguide.org/basic-syntax<img style="width:20%" src="assets/images/TOCgraphic.png" alt="NR-DBIND TOC">
+<img style="width:20%" src="assets/images/TOCgraphic.png" alt="NR-DBIND TOC">
 
 ## Theranalpha Project (Theranostic TNFa inhibitors)
 {: style="text-align: justify"} 
