@@ -9,6 +9,7 @@ Most of my work consists in studying molecular interactions to 1) understand bio
 ### Post-doc studies
 - HADDDOCK COVID drug repurposing against SARS-CoV-2 targets : <a href="https://www.bonvinlab.org/covid/">https://www.bonvinlab.org/covid/</a>
 - Exploration of different deep learning strategies to distinguish near-native docking models from a larger pool of models
+
 ### PhD studies
 - Study of the **importance of inactive data into model construction and evaluation in CADD**
 - Creation of the **NR-DBIND** (Nuclear Receptors DataBase Including Negative Data)
