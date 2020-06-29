@@ -1,17 +1,17 @@
 ## Drug repurposing on COVID-19 proteins - Bonvin Lab, CSB group, UU
-- See : <a href="https://www.bonvinlab.org/covid/">https://www.bonvinlab.org/covid/</em>, https://www.bonvinlab.org/covid/</a>
+   * See : <a href="https://www.bonvinlab.org/covid/">https://www.bonvinlab.org/covid/</em>, https://www.bonvinlab.org/covid/</a>
 
 ## Importance of inactive data in models : application to virtual screening in human health and environnement - example of nuclear receptors - Cnam, GBCM
 Study of the evolution of the use of decoy compounds and true inactive data into model evaluation and construction for CADD
-- See : <a href="https://pubs.acs.org/doi/10.1021/acs.jmedchem.8b01105">Réau <em>et al</em>, Front. Pharmacol. 2018</a>
+   * See : <a href="https://pubs.acs.org/doi/10.1021/acs.jmedchem.8b01105">Réau <em>et al</em>, Front. Pharmacol. 2018</a>
 
 Creation of the NR-DBIND (Nuclear Receptors DataBase Including Negative Data)
-- See : <a href="https://pubs.acs.org/doi/10.1021/acs.jmedchem.8b01105">Réau <em>et al</em>, J. Med. Chem 2019</a>
+   * See : <a href="https://pubs.acs.org/doi/10.1021/acs.jmedchem.8b01105">Réau <em>et al</em>, J. Med. Chem 2019</a>
 
 Identification of computer-aided drug design (CADD) pipelines to identify modulators of different nuclear receptors
-- Docking approach
-- Pharmacophore modeling approach
-- See : <a href="https://www.mdpi.com/2073-4409/8/11/1431">Réau <em>et al</em>, Cells 2019</a>
+   * Docking approach
+   * Pharmacophore modeling approach
+   * See : <a href="https://www.mdpi.com/2073-4409/8/11/1431">Réau <em>et al</em>, Cells 2019</a>
 
 
 <img style="width:60%" src="assets/images/TOCgraphic.png" alt="NR-DBIND TOC">
@@ -24,12 +24,12 @@ The global objective of this project is to design and evaluate *in vitro* and *i
 Project coordinator : Marc Port, <a href="http://cmgpce.cnam.fr/cm-presentation-de-l-equipe-contacts-et-acces-703730.kjsp">Laboratoire de Chimie Moléculaire</a>, CNAM<br>
 The project is supported by an ANR grant: <a href="http://www.agence-nationale-recherche.fr/Project-ANR-17-CE18-0024">Read the full ANR project</a>
 #### Collaborators
-- Laboratoire CM (Chimie Moléculaire), CNAM, Paris
-- Laboratoire GBA (Génomique, Bioinformatique et Applications), CNAM, Paris
-- Laboratoire SATIE (Laboratoire des Systèmes et Applications des Technologies de l'Information et de l'Energie) 
-- PEPTINOV SAS
+   * Laboratoire CM (Chimie Moléculaire), CNAM, Paris
+   * Laboratoire GBA (Génomique, Bioinformatique et Applications), CNAM, Paris
+   * Laboratoire SATIE (Laboratoire des Systèmes et Applications des Technologies de l'Information et de l'Energie) 
+   * PEPTINOV SAS
 
 ## CADD approaches to identify inhibitors of the NRP1/VEGF-A165 interaction - Cnam, GBCM
 #### Collaborators
-- Yves Lepelletier, Institut Imagine, Paris
-- Françoise Raynaud, APHP
+   * Yves Lepelletier, Institut Imagine, Paris
+   * Françoise Raynaud, APHP
