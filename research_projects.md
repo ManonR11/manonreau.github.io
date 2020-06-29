@@ -1,4 +1,4 @@
-## Drug repurposing on COVID-19 proteins - Bonvin Labn CSB group, UU
+## Drug repurposing on COVID-19 proteins - Bonvin Lab, CSB group, UU
 - See : <a href="https://www.bonvinlab.org/covid/">https://www.bonvinlab.org/covid/</em>, https://www.bonvinlab.org/covid/</a>
 
 ## Importance of inactive data in models : application to virtual screening in human health and environnement - example of nuclear receptors - Cnam, GBCM
