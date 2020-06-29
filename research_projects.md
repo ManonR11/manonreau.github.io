@@ -14,7 +14,7 @@ Identification of computer-aided drug design (CADD) pipelines to identify modula
    * See : <a href="https://www.mdpi.com/2073-4409/8/11/1431">Réau <em>et al</em>, Cells 2019</a>
 
 
-<img style="width:60%" src="assets/images/TOCgraphic.png" alt="NR-DBIND TOC">
+<img style="width:80%" src="assets/images/TOCgraphic.png" alt="NR-DBIND TOC">
 
 ## Theranalpha Project (Theranostic TNFa inhibitors) - Cnam, GBCM
 {: style="text-align: justify"} 
