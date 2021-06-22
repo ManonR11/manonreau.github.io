@@ -9,7 +9,7 @@ Shape-restrained protein-ligand HADDOCK docking
    * See : P.I. Koukos, M.F. Reau and A.M.J.J. Bonvin. <a href="https://www.biorxiv.org/content/10.1101/2021.06.10.447890v1">Shape-restrained modelling of protein-small molecule complexes with HADDOCK.</a> bioRxiv doi:10.1101/2021.06.10.447890 (2021).
 
 Early versions of this protocol were used to perform drug repurposing on COVID-19 proteins 
-   * See : <a href="https://www.bonvinlab.org/covid/">https://www.bonvinlab.org/covid/</em>, https://www.bonvinlab.org/covid/</a>
+   * See : <a href="https://www.bonvinlab.org/covid/">https://www.bonvinlab.org/covid/</a>
 
 ## Importance of inactive data in models : application to virtual screening in human health and environnement - example of nuclear receptors - Cnam, GBCM
 Study of the evolution of the use of decoy compounds and true inactive data into model evaluation and construction for CADD
