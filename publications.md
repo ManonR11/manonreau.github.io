@@ -18,6 +18,8 @@
 
 # Contributions in conferences
 ### Oral contributions
+- **Bioexcel** - January 2021 - Online <br>
+Drug repurposing on the A20 protein of the Vaccinia virus
 - **SFCI (Société Française de Chémoinformatique - 9th edition)** - November 2019 - Paris, France
 <a href="https://sfci2019.sciencesconf.org">Link</a><br> Hits discovery on the Androgen receptor: in silico approaches to identify agonist compounds 
 - **SCT - YRFM (Société de Chimie Thérapeutique - Young Research Fellows Meeting)** - February 2019 -- Paris, France
@@ -25,6 +27,8 @@
 - **JOBIM (Journées Ouvertes Biologie, Informatique et Mathématiques)** - July 2018 - Marseille, France - <a href="https://jobim2018.sciencesconf.org">Link</a><br>NR-DBIND : A database dedicated to nuclear receptor binding data including negative data and pharmacological profile  
 
 ### Poster presentations
+- **ISQBP** - June 2021 - Strasbourg, France - Online <a href="https://isqbp2021.sciencesconf.org/">Link</a> <br> 
+Deeprank-GNN: A Graph Neural Network Framework to Learn Interaction Patterns from Protein-Protein Interfaces
 - **GGMM (Groupe de Graphisme et de Modélisation Moléculaire)** - April 2019 - Nice, France - <a href="https://ggmm2019.sciencesconf.org">Link</a> <br> 
 Title : "NR-DBIND : A database dedicated to nuclear receptors binding data including negative data and pharmacological profile"
 - **GCC (German Conference on Chemoinformatics)** - November 2018 - Mainz, Germany - <a href="https://veranstaltungen.gdch.de/tms/frontend/index.cfm?l=8085&modus=">Link</a> <br> 
