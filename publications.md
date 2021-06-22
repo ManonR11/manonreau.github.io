@@ -1,5 +1,9 @@
 # Publications in peer-reviewed journals
 
+- Koukos P*, **Réau M**\*, Bonvin A, **Shape-restrained modelling of protein-small molecule complexes with HADDOCK.**, 2021 June, bioRxiv **doi**: 10.1101/2021.06.10.447890, <a href="https://www.biorxiv.org/content/10.1101/2021.06.10.447890v1">Link</a>
+
+- Sellami S, **Réau M**, Langenfeld F, Lagarde N, Montes M, **Book chapter: Virtual Libraries for Docking Methods: Guidelines for the Selection and the Preparation**, 2021 Nov, Molecular Docking for Computer-Aided Drug Design (pp.99-117), Fundamentals, Techniques, Resources and Applications **doi**: 10.1016/B978-0-12-822312-3.00017-5, <a href="https://www.sciencedirect.com/science/article/pii/B9780128223123000175?via%3Dihub">Link</a>
+
 - **Réau M**, Lagarde N, Zagury JF, Montes M., **Hits Discovery on the Androgen Receptor: In Silico Approaches to Identify Agonist Compounds**, 2019 Nov, *Cells*, **doi**: 10.3390/cells8111431, <a href="https://www.mdpi.com/2073-4409/8/11/1431">Link</a>
 
 - Cerisier N, Petitjean M, Regad L, Bayard Q, **Réau M**, Camproux AC , **High Impact: The Role of Promiscuous Binding Sites in Polypharmacology**, 2019 Jul, *Molecules*, **doi**: 0.3390/molecules24142529, <a href="https://www.mdpi.com/1420-3049/24/14/2529">Link</a>
