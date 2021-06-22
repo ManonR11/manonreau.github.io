@@ -16,7 +16,9 @@ Early versions of this protocol were used to perform drug repurposing on COVID-1
    * See : <a href="https://www.bonvinlab.org/covid/">https://www.bonvinlab.org/covid/</a>
 
 ## Importance of inactive data in models : application to virtual screening in human health and environnement - example of nuclear receptors - Cnam, GBCM
-Study of the evolution of the use of decoy compounds and true inactive data into model evaluation and construction for CADD
+This section summarizes my PhD work under the supervision of Pr Matthieu Montes.
+
+Study of the evolution of the use of decoy compounds/ true inactive data in CADD benchmarking data sets.
    * See : <a href="https://pubs.acs.org/doi/10.1021/acs.jmedchem.8b01105">Réau <em>et al</em>, Front. Pharmacol. 2018</a>
 
 Creation of the NR-DBIND (Nuclear Receptors DataBase Including Negative Data)
@@ -35,7 +37,7 @@ Identification of computer-aided drug design (CADD) pipelines to identify modula
 The global objective of this project is to design and evaluate *in vitro* and *in vivo* theranostic small molecule inhibitors of TNFa to further provide inexpensive anti-TNFa therapies administered orally.<br>
 
 {: style="text-align: justify"} 
-Project coordinator : Marc Port, <a href="http://cmgpce.cnam.fr/cm-presentation-de-l-equipe-contacts-et-acces-703730.kjsp">Laboratoire de Chimie Moléculaire</a>, CNAM<br>
+Project coordinator : Pr Marc Port, <a href="http://cmgpce.cnam.fr/cm-presentation-de-l-equipe-contacts-et-acces-703730.kjsp">Laboratoire de Chimie Moléculaire</a>, CNAM<br>
 The project is supported by an ANR grant: <a href="http://www.agence-nationale-recherche.fr/Project-ANR-17-CE18-0024">Read the full ANR project</a>
 
 #### Collaborators
