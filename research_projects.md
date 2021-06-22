@@ -9,6 +9,8 @@ Deeprank-GNN is a Graph Neural Network framework to learn interaction patterns f
 Shape-restrained protein-ligand HADDOCK docking
 
    * See : P.I. Koukos, M.F. Reau and A.M.J.J. Bonvin. <a href="https://www.biorxiv.org/content/10.1101/2021.06.10.447890v1">Shape-restrained modelling of protein-small molecule complexes with HADDOCK.</a> bioRxiv doi:10.1101/2021.06.10.447890 (2021).
+   * 
+<img style="width:80%" src="assets/images/TOC.png" alt="Shape-restrained ligand/protein HADDOCK docking">
 
 Early versions of this protocol were used to perform drug repurposing on COVID-19 proteins 
    * See : <a href="https://www.bonvinlab.org/covid/">https://www.bonvinlab.org/covid/</a>
