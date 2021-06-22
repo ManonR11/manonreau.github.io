@@ -9,7 +9,7 @@ I focused my PhD research (@ <a href="http://gbcm.cnam.fr/">Le cnam - GBCM </a>)
 
 I recently worked on the development of new tools to study small molecule/ protein interactions and protein-protein interactions :
 - P.I. Koukos, M.F. Reau and A.M.J.J. Bonvin. <a href="https://www.biorxiv.org/content/10.1101/2021.06.10.447890v1">Shape-restrained modelling of protein-small molecule complexes with HADDOCK.</a> bioRxiv doi:10.1101/2021.06.10.447890 (2021).
-- Deeprank-GNN: A Graph Neural Network Framework to Learn Interaction Patterns from Protein-Protein Interfaces
+- <a href="https://deeprank-gnn.readthedocs.io/">Deeprank-GNN</a> : A Graph Neural Network Framework to Learn Interaction Patterns from Protein-Protein Interfaces
 
 # Last news 
    * 06/21 : Happy to share our new shape-restrained protein-ligand HADDOCK docking protocol : <a href="https://www.biorxiv.org/content/10.1101/2021.06.10.447890v1">Shape-restrained modelling of protein-small molecule complexes with HADDOCK.</a> Congrats to Dr P.Koukos for the brilliant team work !
