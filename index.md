@@ -1,3 +1,4 @@
+last update : 22/06/2021
 
 # Manon Réau, PhD in chemoinformatics <a class="atitle" href="{{ site.github.CV }}">[read more]</a>
 <a href="http://www.bonvinlab.org/">Bonvin Lab</a>, CSB group, Utrecht University, Netherlands
