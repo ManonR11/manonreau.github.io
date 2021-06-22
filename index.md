@@ -6,7 +6,7 @@ last update : 22/06/2021
 # Main focus
 Most of my work consists in studying molecular interactions through the prism of structural bioinformatics tools to 1) understand biological phenomenon, 2) identify <em>hits</em> for therapeutic research, 3) predict unwanted effects of either drugs or contaminants. 
 
-I focused my PhD research (@ <a href="http://gbcm.cnam.fr/">Le cnam - GBCM </a>) on the study of the importance of considering inactive data provided by experimentalist to enhance the performance of <em>in silico</em> models in predicting those interactions. See more details <a href="{{ site.github.research }}">here</a>. 
+I focused my PhD research (@ <a href="http://gbcm.cnam.fr/">Le cnam - GBCM </a>) on the study of the importance of considering inactive data provided by experimentalist to evaluate the performance of <em>in silico</em> models. See more details <a href="{{ site.github.research }}">here</a>. 
 
 I recently worked on the development of new tools to study small molecule/ protein interactions and protein-protein interactions :
 - P.I. Koukos, M.F. Reau and A.M.J.J. Bonvin. <a href="https://www.biorxiv.org/content/10.1101/2021.06.10.447890v1">Shape-restrained modelling of protein-small molecule complexes with HADDOCK.</a> bioRxiv doi:10.1101/2021.06.10.447890 (2021).
