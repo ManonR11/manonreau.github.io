@@ -16,7 +16,7 @@ Early versions of this protocol were used to perform drug repurposing on COVID-1
    * See : <a href="https://www.bonvinlab.org/covid/">https://www.bonvinlab.org/covid/</a>
 
 ## Importance of inactive data in models : application to virtual screening in human health and environnement - example of nuclear receptors - Cnam, GBCM
-This section summarizes my PhD work under the supervision of Pr Matthieu Montes.
+This section summarizes my PhD work under the supervision of <a href="https://gbcm.cnam.fr/le-laboratoire/membres/matthieu-montes-1146208.kjsp">Pr Matthieu Montes</a>.
 
 Study of the evolution of the use of decoy compounds/ true inactive data in CADD benchmarking data sets.
    * See : <a href="https://pubs.acs.org/doi/10.1021/acs.jmedchem.8b01105">Réau <em>et al</em>, Front. Pharmacol. 2018</a>
