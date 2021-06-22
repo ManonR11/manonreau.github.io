@@ -2,6 +2,8 @@
 Deeprank-GNN is a Graph Neural Network framework to learn interaction patterns from protein-protein interfaces 
   * See : <a href="https://github.com/DeepRank/Deeprank-GNN/">Deeprank-GNN Github page</a>
   * See : <a href="https://deeprank-gnn.readthedocs.io/">Deeprank-GNN documentation</a>
+  
+<img style="width:60%" src="assets/images/deeprank-gnn.png" alt="Deeprank-gnn - ppi to graphs">
 
 ## Shape-restrained protein-ligand HADDOCK docking - Bonvin Lab, CSB group, UU
 Shape-restrained protein-ligand HADDOCK docking
