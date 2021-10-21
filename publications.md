@@ -20,24 +20,25 @@
 
 # Contributions in conferences
 ### Oral contributions
-- **EMBO Workshop: Advances and Challenges in Biomolecular Simulations** - October 2021 - Online <br>
+- **EMBO Workshop: Advances and Challenges in Biomolecular Simulations** - October 2021 - Online - <a href="https://meetings.embo.org/event/20-biomolecular-simulations">Link</a>  <br>
 Shape-restrained modeling of protein-small molecule complexes with HADDOCK
-- **CIRM - New directions of AI in structural biology** - August 2021 - Online <br>
+- **New directions of AI in structural biology - CIRM (Centre International de Rencontres Mathématiques)** - August 2021 - Online - <a href="https://conferences.cirm-math.fr/2700.html">Link</a> <br>
 DeepRank: deep-learning frameworks for datamining 3D protein-protein interfaces
-- **ISC - Deep Learning on Supercomputers** - July 2021 - Online <br>
+- **ISC - Deep Learning on Supercomputers** - July 2021 - Online - <a href="https://app.swapcard.com/event/isc-high-performance-2021-digital/planning/UGxhbm5pbmdfNDQ0NzI4">Link</a> <br>
 Deep-learning approaches to Learn Interaction Patterns from Protein-Protein Interfaces
 - **Bioexcel** - January 2021 - Online <br>
 Drug repurposing on the A20 protein of the Vaccinia virus
-- **SFCI (Société Française de Chémoinformatique - 9th edition)** - November 2019 - Paris, France
-<a href="https://sfci2019.sciencesconf.org">Link</a><br> Hits discovery on the Androgen receptor: in silico approaches to identify agonist compounds 
-- **SCT - YRFM (Société de Chimie Thérapeutique - Young Research Fellows Meeting)** - February 2019 -- Paris, France
-<a href="http://www.sct-asso.fr/yrfm.html">Link</a><br>Use of annotated databases in in silico drug design - Integration of inactive data 
-- **JOBIM (Journées Ouvertes Biologie, Informatique et Mathématiques)** - July 2018 - Marseille, France - <a href="https://jobim2018.sciencesconf.org">Link</a><br>NR-DBIND : A database dedicated to nuclear receptor binding data including negative data and pharmacological profile  
+- **SFCI (Société Française de Chémoinformatique - 9th edition)** - November 2019 - Paris, France - <a href="https://sfci2019.sciencesconf.org">Link</a><br> 
+Hits discovery on the Androgen receptor: in silico approaches to identify agonist compounds 
+- **SCT - YRFM (Société de Chimie Thérapeutique - Young Research Fellows Meeting)** - February 2019 -- Paris, France - <a href="http://www.sct-asso.fr/yrfm.html">Link</a><br>
+Use of annotated databases in in silico drug design - Integration of inactive data 
+- **JOBIM (Journées Ouvertes Biologie, Informatique et Mathématiques)** - July 2018 - Marseille, France - <a href="https://jobim2018.sciencesconf.org">Link</a><br>
+NR-DBIND : A database dedicated to nuclear receptor binding data including negative data and pharmacological profile  
 
 ### Poster presentations
-- **GGMM/SFCI** - October 2021 - Lille, France <a href="https://ggmm-sfci-lille.com/">Link</a> <br> 
+- **GGMM (Groupe de Graphisme et de Modélisation Moléculaire)/SFCI (Socété Française de Chemoinformatique)** - October 2021 - Lille, France <a href="https://ggmm-sfci-lille.com/">Link</a> <br> 
 Deeprank-GNN: A Graph Neural Network Framework to Learn Interaction Patterns from protein-protein interfaces
-- **ISQBP** - June 2021 - Strasbourg, France - Online <a href="https://isqbp2021.sciencesconf.org/">Link</a> <br> 
+- **ISQBP (International Society of Quantum Biology and Pharmacology)** - June 2021 - Strasbourg, France - Online <a href="https://isqbp2021.sciencesconf.org/">Link</a> <br> 
 Deeprank-GNN: A Graph Neural Network Framework to Learn Interaction Patterns from Protein-Protein Interfaces
 - **GGMM (Groupe de Graphisme et de Modélisation Moléculaire)** - April 2019 - Nice, France - <a href="https://ggmm2019.sciencesconf.org">Link</a> <br> 
 Title : "NR-DBIND : A database dedicated to nuclear receptors binding data including negative data and pharmacological profile"
