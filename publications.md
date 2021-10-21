@@ -1,5 +1,7 @@
 # Publications in peer-reviewed journals
 
+- Lensink MF, Brysbaert G, Mauri T, Nadzirin N, Velankar S, Chaleil RAG, Clarence T, Bates PA, Kong R, Liu B, Yang G, Liu M, Shi H, Lu X, Chang S, Roy RS, Quadir F, Liu J, Cheng J, Antoniak A, Czaplewski C, Giełdoń A, Kogut M, Lipska AG, Liwo A, Lubecka EA, Maszota-Zieleniak M, Sieradzan AK, Ślusarz R, Wesołowski PA, Zięba K, Del Carpio Muñoz CA, Ichiishi E, Harmalkar A, Gray JJ, Bonvin AMJJ, Ambrosetti F, Vargas Honorato R, Jandova Z, Jiménez-García B, Koukos PI, Van Keulen S, Van Noort CW, **Réau M**, Roel-Touris J, Kotelnikov S, Padhorny D, Porter KA, Alekseenko A, Ignatov M, Desta I, Ashizawa R, Sun Z, Ghani U, Hashemi N, Vajda S, Kozakov D, Rosell M, Rodríguez-Lumbreras LA, Fernandez-Recio J, Karczynska A, Grudinin S, Yan Y, Li H, Lin P, Huang SY, Christoffer C, Terashi G, Verburgt J, Sarkar D, Aderinwale T, Wang X, Kihara D, Nakamura T, Hanazono Y, Gowthaman R, Guest JD, Yin R, Taherzadeh G, Pierce BG, Barradas-Bautista D, Cao Z, Cavallo L, Oliva R, Sun Y, Zhu S, Shen Y, Park T, Woo H, Yang J, Kwon S, Won J, Seok C, Kiyota Y, Kobayashi S, Harada Y, Takeda-Shitaka M, Kundrotas PJ, Singh A, Vakser IA, Dapkūnas J, Olechnovič K, Venclovas Č, Duan R, Qiu L, Xu X, Zhang S, Zou X, Wodak SJ. **Prediction of protein assemblies, the next frontier: The CASP14-CAPRI experiment.**, 2021 Aug, Proteins, **doi**: 10.1002/prot.26222. <a href="https://onlinelibrary-wiley-com.proxy.library.uu.nl/doi/epdf/10.1002/prot.26222">Link</a>
+
 - Koukos P*, **Réau M**\*, Bonvin A, **Shape-restrained modelling of protein-small molecule complexes with HADDOCK.**, 2021 June, bioRxiv **doi**: 10.1101/2021.06.10.447890, <a href="https://www.biorxiv.org/content/10.1101/2021.06.10.447890v1">Link</a>
 
 - Sellami S, **Réau M**, Langenfeld F, Lagarde N, Montes M, **Book chapter: Virtual Libraries for Docking Methods: Guidelines for the Selection and the Preparation**, 2021 Nov, Molecular Docking for Computer-Aided Drug Design (pp.99-117), Fundamentals, Techniques, Resources and Applications **doi**: 10.1016/B978-0-12-822312-3.00017-5, <a href="https://www.sciencedirect.com/science/article/pii/B9780128223123000175?via%3Dihub">Link</a>
@@ -18,6 +20,12 @@
 
 # Contributions in conferences
 ### Oral contributions
+- **EMBO Workshop: Advances and Challenges in Biomolecular Simulations** - October 2021 - Online <br>
+Shape-restrained modeling of protein-small molecule complexes with HADDOCK
+- **CIRM - New directions of AI in structural biology** - August 2021 - Online <br>
+DeepRank: deep-learning frameworks for datamining 3D protein-protein interfaces
+- **ISC - Deep Learning on Supercomputers** - July 2021 - Online <br>
+Deep-learning approaches to Learn Interaction Patterns from Protein-Protein Interfaces
 - **Bioexcel** - January 2021 - Online <br>
 Drug repurposing on the A20 protein of the Vaccinia virus
 - **SFCI (Société Française de Chémoinformatique - 9th edition)** - November 2019 - Paris, France
@@ -27,6 +35,8 @@ Drug repurposing on the A20 protein of the Vaccinia virus
 - **JOBIM (Journées Ouvertes Biologie, Informatique et Mathématiques)** - July 2018 - Marseille, France - <a href="https://jobim2018.sciencesconf.org">Link</a><br>NR-DBIND : A database dedicated to nuclear receptor binding data including negative data and pharmacological profile  
 
 ### Poster presentations
+- **GGMM/SFCI** - October 2021 - Lille, France <a href="https://ggmm-sfci-lille.com/">Link</a> <br> 
+Deeprank-GNN: A Graph Neural Network Framework to Learn Interaction Patterns from protein-protein interfaces
 - **ISQBP** - June 2021 - Strasbourg, France - Online <a href="https://isqbp2021.sciencesconf.org/">Link</a> <br> 
 Deeprank-GNN: A Graph Neural Network Framework to Learn Interaction Patterns from Protein-Protein Interfaces
 - **GGMM (Groupe de Graphisme et de Modélisation Moléculaire)** - April 2019 - Nice, France - <a href="https://ggmm2019.sciencesconf.org">Link</a> <br> 
