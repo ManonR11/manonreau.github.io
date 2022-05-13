@@ -13,6 +13,7 @@ I recently worked on the development of new tools to study small molecule/ prote
 - <a href="https://deeprank-gnn.readthedocs.io/">Deeprank-GNN</a> : A Graph Neural Network Framework to Learn Interaction Patterns from Protein-Protein Interfaces
 
 # Last news 
+   * 03/22 : I am delighted to join Qubit Pharmaceuticals as an application scientist !
    * 06/21 : Happy to share our new shape-restrained protein-ligand HADDOCK docking protocol : <a href="https://www.biorxiv.org/content/10.1101/2021.06.10.447890v1">Shape-restrained modelling of protein-small molecule complexes with HADDOCK.</a> Congrats to Dr P.Koukos for the brilliant team work !
    * 03/20 : HADDDOCK COVID drug repurposing against SARS-CoV-2 targets : <a href="https://www.bonvinlab.org/covid/">https://www.bonvinlab.org/covid/</a>
    * 02/20 : A new adventure begins with the <a href="http://www.bonvinlab.org/">Bonvin Lab</a> in Utrecht !
