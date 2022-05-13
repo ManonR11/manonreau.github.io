@@ -1,7 +1,7 @@
 last update : 22/06/2021
 
 # Manon Réau, PhD in chemoinformatics <a class="atitle" href="{{ site.github.CV }}">[read more]</a>
-<a href="http://www.bonvinlab.org/">Bonvin Lab</a>, CSB group, Utrecht University, Netherlands
+Application Scientist, <a href="https://qubit-pharmaceuticals.com/">Qubit Pharmaceuticals</a>, Paris, France
 
 # Main focus
 Most of my work consists in studying molecular interactions through the prism of structural bioinformatics tools to 1) understand biological phenomenon, 2) identify <em>hits</em> for therapeutic research, 3) predict unwanted effects of either drugs or contaminants. 
