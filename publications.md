@@ -1,4 +1,7 @@
 # Publications in peer-reviewed journals
+- Schweke H,  Xu Q,  Tauriello G,  Pantolini L,  Schwede T,  Cazals F, Lhéritier A,  Fernandez-Recio J, Rodríguez-Lumbreras LA,   Schueler-Furman O,  Varga JK,  Jiménez-García B, **Réau M**, Bonvin AMJJ,  Savojardo C,  Martelli PL,  Casadio R,  Tubiana J,  Wolfson HJ, Oliva R,  Barradas-Bautista D, Ricciardelli T,  Cavallo L,  Venclovas C,  Olechnovič K,  Guerois R,  Andreani J,  Martin J, Wang X,  Terashi G,   Sarkar D, Christoffer C, Aderinwale T, Verburgt J, Kihara D, Marchand A, Correia BE, Duan R, Qiu L, Xu X, Zhang S, Zou X, Dey S, Dunbrack RL, Levy ED, Wodak SJ, **Discriminating physiological from non-physiological interfaces in structures of protein complexes: A community-wide study.**, 2023 June, *Proteomics*, **doi**: 10.1002/pmic.202200323 <a href="https://analyticalsciencejournals.onlinelibrary.wiley.com/doi/10.1002/pmic.202200323">Link</a>
+
+- **Réau M**, Renaud N, Xue LC & Bonvin AMJJ, **DeepRank-GNN: A Graph Neural Network Framework to Learn Patterns in Protein-Protein Interfaces**, 2022 November, *Bioinformatics*, **doi**: 10.1093/bioinformatics/btac759 <a href="https://academic.oup.com/bioinformatics/article/39/1/btac759/6845451?login=false">Link</a>
 
 - Renaud N, Geng C, Georgievska S, Ambrosetti F, Ridder L, Marzella DF, **Réau M**, Bonvin AMJJ & Xue LC, **DeepRank: a deep learning framework for data mining 3D protein-protein interfaces**, 2021 December, *Nat Commun*, **doi**: 10.1038/s41467-021-27396-0 <a href="https://www-nature-com.proxy.library.uu.nl/articles/s41467-021-27396-0">Link</a>
 
